@@ -1,1 +1,5 @@
 my first file in txt
+y
+a
+ya
+add something
